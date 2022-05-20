@@ -1,3 +1,20 @@
+Proyecto React
+
+correr npm start dentro de la carpeta tech
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // Babel  mayor compilador de javaScript
 
 
